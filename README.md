@@ -1,4 +1,4 @@
-## A bad example of how not to do it
+## A test example of an agent with some functionality
 # Windows Automation Agent
 
 
